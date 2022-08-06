@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Random;
 
 public class OpMath
 {
@@ -959,9 +960,86 @@ public class OpMath
 					}
 					else if(op == 3) // Menu Operaciones de Estadistica
 					{
-						System.out.println("");
-						System.out.println("Work in progress...");
-						System.out.println("");
+						do
+						{
+							System.out.println(""); 
+							System.out.println("******************************************");
+							System.out.println("**                                      **");
+							System.out.println("**             Estadistica              **");
+							System.out.println("**                                      **");
+							System.out.println("**   1) Calculo Moda, Media y Mediana   **");
+							System.out.println("**                                      **");
+							System.out.println("**   2) Voler al menu anterior          **");
+							System.out.println("**                                      **");
+							System.out.println("******************************************");
+							System.out.println("");
+							Random rand = new Random();
+							op = in.nextInt();
+							System.out.println("");
+								if(op == 1) // Calculo Moda, Media y Mediana
+								{
+									System.out.println("Ingrese el numero de datos deseados que no sea mayor a 15: ");
+									System.out.println("");
+									int temp = in.nextInt();
+									System.out.println("");
+									int [] valores = new int[temp]; // Obtiene valores random
+									for(int a = 0; a<valores.length; a++)  // llenando vector
+									{	
+										valores[a] = rand.nextInt(15) + 1;
+									}
+									for(int a = 0; a<valores.length; a++) System.out.print(" |" + valores[a] + "| "); // llenando vector
+									System.out.println("");
+									{
+									System.out.println("");
+									}
+									if(temp%2 == 0) //Mediana.  % es el mod de la division
+									{
+										double tempMed0 = (temp/2);
+										double tempMed1 = (temp/2)+1;
+										int Med0 = valores[(int) tempMed0];
+										int Med1 = valores[(int) tempMed1];
+										double answer = (Med0 + Med1)/2;
+										System.out.println("");
+										System.out.println("La mediana es:  " + answer);
+										System.out.println("");
+									}
+									else
+									{
+										double tempMed0 = ((temp+1))/2;
+										int answer = valores[(int) tempMed0];
+										System.out.print("");
+										System.out.println("La mediana es: " + answer);
+										System.out.print("");
+									}
+									{
+										int temp2 = 0; // Calculo de la media
+										for(int a = 0; a < valores.length; a++) temp2 += valores[a];
+										{	
+											double answer = temp2/temp;
+											System.out.println("");
+											System.out.println("La media es:  " + answer);
+											System.out.print("");
+										}
+									}	
+								}
+								else if(op == 2) // Vuelve al menu anterior
+								{
+									break;
+								}
+								else if(op > 2)
+								{
+									System.out.println("");
+									System.out.println("Error, la opcion no esta disponible");
+									System.out.println("");
+								}
+								else if (op < 1)
+								{
+									System.out.println("");
+									System.out.println("Error, la opcion no esta disponible");
+									System.out.println("");
+								}
+						}
+						while(true);
 					}
 					else if(op == 4) // Menu Matrices por Gauss Jordan
 					{
@@ -1188,7 +1266,7 @@ public class OpMath
 						}
 						while(true);
 					}
-					else if (op == 6) // Vuelve a menur anterior
+					else if (op == 6) // Vuelve a menu anterior
 					{
 						break;
 					}
