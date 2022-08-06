@@ -1,0 +1,335 @@
+Algoritmo Operaciones Aritmeticas
+
+Algoritmo Suma
+
+Inicio
+- Escribir marco del menu
+- Escribir " Suma "
+- Escribir marco del menu
+- Escribir "Ingrese numero (1) a sumar:  "
+- Leer numero ingresado
+- Escribir "Ingrese numero (2) a sumar:  "
+- Leer numero ingresado
+- Escribir "Desea sumar otro numero:  1) Si 2) No"
+- Leer la opcion ingresada
+- Si opcion es igual a 1
+  - Entonces Escribir"Ingrese numero (3) a sumar: "
+  - Leer numero ingresado
+  - Escribir "Desea sumar otro numero?  1) Si 2) No"
+  - Leer la opcion ingresada
+  - Si opcion es igual a 1
+    - Entonces Escribir "Ingrese numero (4) a sumar: "
+    - Leer numero ingresado
+    - Escribir "Desea sumar otro numero?  1) Si 2) No"
+    - Leer la opcion ingresada
+    - Si opcion es igual a 1
+      - Entonces Escribir "Ingrese numero (5) a sumar:  "
+      - Leer numero ingresado
+      - Escribir "Desea sumar otro numero?  1) Si 2) No"
+      - Leer opcion ingresada
+      - Si opcion es igual a 1
+        - Entonces Escribir "Ingrese numero (6) a sumar:  "
+        - Leer numero ingresado
+        - Escribir "Desea sumar otro numero?  1) Si 2) No"
+        - Leer opcion ingresada
+        - Si opcion es igual a 1
+          - Entonces Escribir "Ingrese numero (6) a sumar:  "
+          - Leer numero ingresado
+          - Escribir "Desea sumar otro numero?  1) Si 2) No"
+          - Leer la opcion ingresada
+          - Si opcion es igual a 1
+            - Entonces Escribir "Ingrese numero (7) a sumar:  "
+            - Leer numero ingresado
+            - Escribir "Desea sumar otro numero?  1) Si 2) No"
+            - Leer la opcion ingresada 
+            - Si opcion es igual a 1
+              - Entonces Escribir "Ingrese numero (8) a sumar:  "
+              - Leer numero ingresado
+              - Escribir "Desea sumar otro numero?  1) Si 2) No"
+              - Leer la opcion ingresada 
+              - Si opcion es igual a 1
+                - Entonces Escribir "Ingrese numero (9) a sumar:  "
+                - Leer numero ingresado
+                - Escribir "Desea sumar otro numero?  1) Si 2) No"
+                - Leer la opcion ingresada 
+                - Si opcon es igual a 1
+                  - Entonce Escribir "Ingrese numero (10) a sumar:  "
+                  - Leer numero ingresado
+                  - Hacer la operacion 
+                  - Escribir "El resultado de la suma es:  "
+              - De lo contrario si opcion es igual a 2
+                - Entonces hacer la operacion
+                - Escribir "El resultado de la suma es:  "
+            - De lo contrario si la opcion es igual a 2
+              - Entonces hacer la operacion
+              - Escribir "El resultado de la suma es:  "
+          - De lo contrario si la opcion es igual a 2
+            - Entonces hacer la operacion
+            - Escribir "El resultado de la suma es:  "
+        - De lo contrario si la opcion se igual a 2
+          - Entonces hacer la operacion
+          - Escribir "El resultado de la suma es:  "
+      - De lo contrario si la opcion es igual a 2
+        - Entonces hacer la operacion
+        - Escribir "El resutaldo de la suma es:  "
+    - De lo contrario si la opcion es igual a 2
+      - Entonces hacer la operacion
+      - Escribir "El resultado de la suma es:  "
+  - De lo contrario si la opcion es igual a 2
+    - Entonces hacer la operacion
+    - Escribir "El resultado de la suma es:  "
+- De lo contrario si la opcion es igual a 2
+  - Entonces hacer la operacion
+  - Escribir "El resultado de la suma es:  " 
+Fin
+
+
+Algoritmo Resta
+
+Inicio
+- Escribir marco del menu
+- Escribir " resta "
+- Escribir marco del menu
+- Escribir "Ingrese numero (1) a restar:  "
+- Leer numero ingresado
+- Escribir "Ingrese numero (2) a restar:  "
+- Leer numero ingresado
+- Escribir "Desea restar otro numero:  1) Si 2) No"
+- Leer la opcion ingresada
+- Si opcion es igual a 1
+  - Entonces Escribir"Ingrese numero (3) a restar: "
+  - Leer numero ingresado
+  - Escribir "Desea restar otro numero?  1) Si 2) No"
+  - Leer la opcion ingresada
+  - Si opcion es igual a 1
+    - Entonces Escribir "Ingrese numero (4) a restar: "
+    - Leer numero ingresado
+    - Escribir "Desea restar otro numero?  1) Si 2) No"
+    - Leer la opcion ingresada
+    - Si opcion es igual a 1
+      - Entonces Escribir "Ingrese numero (5) a restar:  "
+      - Leer numero ingresado
+      - Escribir "Desea restar otro numero?  1) Si 2) No"
+      - Leer opcion ingresada
+      - Si opcion es igual a 1
+        - Entonces Escribir "Ingrese numero (6) a restar:  "
+        - Leer numero ingresado
+        - Escribir "Desea restar otro numero?  1) Si 2) No"
+        - Leer opcion ingresada
+        - Si opcion es igual a 1
+          - Entonces Escribir "Ingrese numero (6) a restar:  "
+          - Leer numero ingresado
+          - Escribir "Desea restar otro numero?  1) Si 2) No"
+          - Leer la opcion ingresada
+          - Si opcion es igual a 1
+            - Entonces Escribir "Ingrese numero (7) a restar:  "
+            - Leer numero ingresado
+            - Escribir "Desea restar otro numero?  1) Si 2) No"
+            - Leer la opcion ingresada 
+            - Si opcion es igual a 1
+              - Entonces Escribir "Ingrese numero (8) a restar:  "
+              - Leer numero ingresado
+              - Escribir "Desea restar otro numero?  1) Si 2) No"
+              - Leer la opcion ingresada 
+              - Si opcion es igual a 1
+                - Entonces Escribir "Ingrese numero (9) a restar:  "
+                - Leer numero ingresado
+                - Escribir "Desea restar otro numero?  1) Si 2) No"
+                - Leer la opcion ingresada 
+                - Si opcon es igual a 1
+                  - Entonce Escribir "Ingrese numero (10) a restar:  "
+                  - Leer numero ingresado
+                  - Hacer la operacion 
+                  - Escribir "El resultado de la resta es:  "
+              - De lo contrario si opcion es igual a 2
+                - Entonces hacer la operacion
+                - Escribir "El resultado de la resta es:  "
+            - De lo contrario si la opcion es igual a 2
+              - Entonces hacer la operacion
+              - Escribir "El resultado de la resta es:  "
+          - De lo contrario si la opcion es igual a 2
+            - Entonces hacer la operacion
+            - Escribir "El resultado de la resta es:  "
+        - De lo contrario si la opcion se igual a 2
+          - Entonces hacer la operacion
+          - Escribir "El resultado de la resta es:  "
+      - De lo contrario si la opcion es igual a 2
+        - Entonces hacer la operacion
+        - Escribir "El resutaldo de la resta es:  "
+    - De lo contrario si la opcion es igual a 2
+      - Entonces hacer la operacion
+      - Escribir "El resultado de la resta es:  "
+  - De lo contrario si la opcion es igual a 2
+    - Entonces hacer la operacion
+    - Escribir "El resultado de la resta es:  "
+- De lo contrario si la opcion es igual a 2
+  - Entonces hacer la operacion
+  - Escribir "El resultado de la resta es:  " 
+Fin
+
+
+Algoritmo Multiplicacion
+
+Inicio
+- Escribir marco del menu
+- Escribir " Multiplicacion "
+- Escribir marco del menu
+- Escribir "Ingrese numero (1) a multiplicar:  "
+- Leer numero ingresado
+- Escribir "Ingrese numero (2) a multiplicar:  "
+- Leer numero ingresado
+- Escribir "Desea multiplicar otro numero:  1) Si 2) No"
+- Leer la opcion ingresada
+- Si opcion es igual a 1
+  - Entonces Escribir"Ingrese numero (3) a multiplicar: "
+  - Leer numero ingresado
+  - Escribir "Desea multiplicar otro numero?  1) Si 2) No"
+  - Leer la opcion ingresada
+  - Si opcion es igual a 1
+    - Entonces Escribir "Ingrese numero (4) a multiplicar: "
+    - Leer numero ingresado
+    - Escribir "Desea multiplicar otro numero?  1) Si 2) No"
+    - Leer la opcion ingresada
+    - Si opcion es igual a 1
+      - Entonces Escribir "Ingrese numero (5) a multiplicar:  "
+      - Leer numero ingresado
+      - Escribir "Desea multiplicar otro numero?  1) Si 2) No"
+      - Leer opcion ingresada
+      - Si opcion es igual a 1
+        - Entonces Escribir "Ingrese numero (6) a multiplicar:  "
+        - Leer numero ingresado
+        - Escribir "Desea multiplicar otro numero?  1) Si 2) No"
+        - Leer opcion ingresada
+        - Si opcion es igual a 1
+          - Entonces Escribir "Ingrese numero (6) a multiplicar:  "
+          - Leer numero ingresado
+          - Escribir "Desea multiplicar otro numero?  1) Si 2) No"
+          - Leer la opcion ingresada
+          - Si opcion es igual a 1
+            - Entonces Escribir "Ingrese numero (7) a multiplicar:  "
+            - Leer numero ingresado
+            - Escribir "Desea multiplicar otro numero?  1) Si 2) No"
+            - Leer la opcion ingresada 
+            - Si opcion es igual a 1
+              - Entonces Escribir "Ingrese numero (8) a multiplicar:  "
+              - Leer numero ingresado
+              - Escribir "Desea multiplicar otro numero?  1) Si 2) No"
+              - Leer la opcion ingresada 
+              - Si opcion es igual a 1
+                - Entonces Escribir "Ingrese numero (9) a multiplicar:  "
+                - Leer numero ingresado
+                - Escribir "Desea multiplicar otro numero?  1) Si 2) No"
+                - Leer la opcion ingresada 
+                - Si opcon es igual a 1
+                  - Entonce Escribir "Ingrese numero (10) a multiplicar:  "
+                  - Leer numero ingresado
+                  - Hacer la operacion 
+                  - Escribir "El resultado de la multiplicacion es:  "
+              - De lo contrario si opcion es igual a 2
+                - Entonces hacer la operacion
+                - Escribir "El resultado de la multiplicacion es:  "
+            - De lo contrario si la opcion es igual a 2
+              - Entonces hacer la operacion
+              - Escribir "El resultado de la multiplicacion es:  "
+          - De lo contrario si la opcion es igual a 2
+            - Entonces hacer la operacion
+            - Escribir "El resultado de la multiplicacion es:  "
+        - De lo contrario si la opcion se igual a 2
+          - Entonces hacer la operacion
+          - Escribir "El resultado de la multiplicacion es:  "
+      - De lo contrario si la opcion es igual a 2
+        - Entonces hacer la operacion
+        - Escribir "El resutaldo de la multiplicacion es:  "
+    - De lo contrario si la opcion es igual a 2
+      - Entonces hacer la operacion
+      - Escribir "El resultado de la multiplicacion es:  "
+  - De lo contrario si la opcion es igual a 2
+    - Entonces hacer la operacion
+    - Escribir "El resultado de la multiplicacion es:  "
+- De lo contrario si la opcion es igual a 2
+  - Entonces hacer la operacion
+  - Escribir "El resultado de la multiplicacion es:  " 
+Fin
+
+Algoritmo Division
+
+Inicio
+- Escribir marco del menu
+- Escribir " Division "
+- Escribir marco del menu
+- Escribir "Ingrese numero (1) a dividir:  "
+- Leer numero ingresado
+- Escribir "Ingrese numero (2) a dividir:  "
+- Leer numero ingresado
+- Escribir "Desea dividir otro numero:  1) Si 2) No"
+- Leer la opcion ingresada
+- Si opcion es igual a 1
+  - Entonces Escribir"Ingrese numero (3) a dividir: "
+  - Leer numero ingresado
+  - Escribir "Desea dividir otro numero?  1) Si 2) No"
+  - Leer la opcion ingresada
+  - Si opcion es igual a 1
+    - Entonces Escribir "Ingrese numero (4) a dividir: "
+    - Leer numero ingresado
+    - Escribir "Desea dividir otro numero?  1) Si 2) No"
+    - Leer la opcion ingresada
+    - Si opcion es igual a 1
+      - Entonces Escribir "Ingrese numero (5) a dividir:  "
+      - Leer numero ingresado
+      - Escribir "Desea dividir otro numero?  1) Si 2) No"
+      - Leer opcion ingresada
+      - Si opcion es igual a 1
+        - Entonces Escribir "Ingrese numero (6) a dividir:  "
+        - Leer numero ingresado
+        - Escribir "Desea dividir otro numero?  1) Si 2) No"
+        - Leer opcion ingresada
+        - Si opcion es igual a 1
+          - Entonces Escribir "Ingrese numero (6) a dividir:  "
+          - Leer numero ingresado
+          - Escribir "Desea dividir otro numero?  1) Si 2) No"
+          - Leer la opcion ingresada
+          - Si opcion es igual a 1
+            - Entonces Escribir "Ingrese numero (7) a dividir:  "
+            - Leer numero ingresado
+            - Escribir "Desea dividir otro numero?  1) Si 2) No"
+            - Leer la opcion ingresada 
+            - Si opcion es igual a 1
+              - Entonces Escribir "Ingrese numero (8) a dividir:  "
+              - Leer numero ingresado
+              - Escribir "Desea dividir otro numero?  1) Si 2) No"
+              - Leer la opcion ingresada 
+              - Si opcion es igual a 1
+                - Entonces Escribir "Ingrese numero (9) a dividir:  "
+                - Leer numero ingresado
+                - Escribir "Desea dividir otro numero?  1) Si 2) No"
+                - Leer la opcion ingresada 
+                - Si opcon es igual a 1
+                  - Entonce Escribir "Ingrese numero (10) a dividir:  "
+                  - Leer numero ingresado
+                  - Hacer la operacion 
+                  - Escribir "El resultado de la division es:  "
+              - De lo contrario si opcion es igual a 2
+                - Entonces hacer la operacion
+                - Escribir "El resultado de la division es:  "
+            - De lo contrario si la opcion es igual a 2
+              - Entonces hacer la operacion
+              - Escribir "El resultado de la division es:  "
+          - De lo contrario si la opcion es igual a 2
+            - Entonces hacer la operacion
+            - Escribir "El resultado de la division es:  "
+        - De lo contrario si la opcion se igual a 2
+          - Entonces hacer la operacion
+          - Escribir "El resultado de la division es:  "
+      - De lo contrario si la opcion es igual a 2
+        - Entonces hacer la operacion
+        - Escribir "El resutaldo de la division es:  "
+    - De lo contrario si la opcion es igual a 2
+      - Entonces hacer la operacion
+      - Escribir "El resultado de la division es:  "
+  - De lo contrario si la opcion es igual a 2
+    - Entonces hacer la operacion
+    - Escribir "El resultado de la division es:  "
+- De lo contrario si la opcion es igual a 2
+  - Entonces hacer la operacion
+  - Escribir "El resultado de la division es:  " 
+Fin

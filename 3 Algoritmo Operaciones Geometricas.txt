@@ -1,0 +1,64 @@
+Algoritmos Operaciones Geometricas
+
+Algoritmo Triangulo
+
+Inicio
+- Escribrir marco del menu
+- Escribir " Triangulo "
+- Escribir "Ingrese la base:  "
+- Leer valor ingresado
+- Escribir "Ingrese la altura:  "
+- Leer valor ingresado
+- Hacer operacion area
+- Escribir "Ingrese lado a:  "
+- Leer valor ingresado
+- Escribir "Ingrese lado b:  "
+- Leer valor ingresado
+- Hacer operacion perimetro
+- Escribir "El area del triangulo es:   unidades cuadradas" 
+- Escribir "El perimetro del triangulo es:   unidades"
+Fin
+
+Algoritmo Cuadrado
+
+Inicio
+- Escribir marco del menu
+- Escribir " Cuadrado "
+- Escribir marco del menu
+- Escribir Ingrese el lado:  "
+- Leer valor ingresado
+- Hacer operacion area
+- Hacer operacion perimetro
+- Escribir "El area del cuadrado es:   unidades cuadradas"
+- Escribir "El perimetro del cuadrado es:   unidades"
+Fin
+
+Algoritmo Rectangulo
+
+Inicio
+- Escribir marco del menu
+- Escribir " Rectangulo "
+- Escribir marco del menu
+- Escribir "Ingrese la base:  "
+- Leer valor ingresado
+- Escribir "Ingrese la altura:  "
+- Leer valor ingresado
+- Hacer operacion area
+- Hacer operacion perimetro
+- Escribir "El area del rectangulo es:   unidades cuadradas"
+- Escribir "El perimetro del rectangulo es:   unidades "
+Fin
+
+Algoritmo Circulo
+
+Inicio
+- Escribir marco del menu
+- Escribir " Circulo "
+- Escribir marco del menu
+- Escribir Ingrese el radio:  "
+- Leer valor ingresado
+- Hacer operacion area
+- Hacer operacion perimetro
+- Escribir "El area del circulo es:   unidades cuadradas"
+- Escribir "El perimetro del circulo es:   unidades"
+Fin

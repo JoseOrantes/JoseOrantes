@@ -1,0 +1,43 @@
+Algortimo Operaciones Avanzadas
+
+Algoritmo Factorial
+
+Inicio
+- Escribir marco del menu
+- Escribir "Factorial N"
+- Escribir marco del menu
+- Escribir "Ingrese un numero N dentro del rango (1 - 100):
+- Leer valor ingresado
+- Si numero es mayor o igual a 1 y menor o igual a 100
+  - Entonces Escribir "La sucesión Factorial es:  "
+  - para i sera igual a valor ingresado, i sera mayor a 0 e i se restara 
+    una unidad por ciclo
+    - Hacer operacion segunda variable = segunda variable por i
+  - Escribir "Segunda variable"
+- De lo contrario si valor ingresado es menor que 1
+  - Entonces Escribir " Error, numero fuera del rango (1 - 100) "
+- De lo contrario si valor ingresado es mayor a 100
+  - Entonces Escribir " Error, numero fuera del rango (1 - 100) "
+Fin
+
+Algoritmo Fibonacci
+
+Inicio
+- Escribir marco del menu
+- Escribir " Fibonacci "
+- Escribir marco del menu
+- Escribir "Ingrese un numero N dentro del rango (1 - 100):
+- Leer valor ingresado
+- Si numero es mayor o igual a 1 y menor o igual a 100
+  - Escribir valor ingresado
+  - Escribir valor 2
+    - Mientras valor 2 mas valor 1 <= valor 4
+      - valor 3 = valor ingresado
+      - valor ingresado = valor 2
+      - valor 2 = valor 3 + valor ingresado
+      - Escribir valor 2
+- De lo contrario si valor ingresado es menor a 1
+  - Entonces Escribir " Error, numero fuera del rango (1 - 100) "
+- De lo contrario si valor ingresado es mayor a 100
+  - Entonces Escribir " Error, numero fuera del rango (1 - 100) " 
+Fin
